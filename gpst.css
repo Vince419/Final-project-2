@@ -138,7 +138,7 @@ a.PS3:hover, a:active {
   transition: all 0.3s ease;
 }
 
-a.home:hover, a:active {
+a.index:hover, a:active {
   background: linear-gradient(90deg, #00c7f9 0%, #001c6a 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
