@@ -1,0 +1,177 @@
+body {
+            margin: 0;
+            background-color: black;
+            font-family: Arial, sans-serif;
+        }
+
+        header {
+            background-color: rgb(0, 0, 0);
+            text-align: center;
+            color: white;
+            padding: 20px 0;
+            
+        }
+
+        header a {
+            color: white;
+            background-color: rgb(70, 70, 70);
+            padding: 8px 16px;
+            text-decoration: none;
+            margin: 5px;
+            display: inline-block;
+            border-radius: 5px;
+            width: 100px;
+            font-size: 20px;
+        }
+
+        main {
+            background-image: linear-gradient(to bottom, rgb(82, 179, 211), rgb(3, 137, 209));
+            color: white;
+            padding: 25px;
+            min-height: 70vh; 
+            text-align: center;
+            font-family: 'Roboto', sans-serif;
+            
+        }
+
+        
+        footer {
+           
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+
+        .main-content {
+            background: rgb(0, 85, 255);
+            height: 600px;
+            border-radius: 15px;
+            width: 40%;
+            position: relative;
+            left: 60%;
+        
+            
+        }
+
+        header a:hover {
+    background-color: #888;
+    transform: scale(1.05);
+    transition: all 0.3s ease;
+}
+
+.PS2-1 {
+            background-image: linear-gradient(to right, rgb(0,40,200), rgb(0,34,150));
+            height: 132px;
+            border-radius: 15px;
+            width: 40%;
+            position: relative;
+            left: 60%;
+           
+        }
+
+        .PS2-2 {
+            background-image: linear-gradient(to right, rgb(0,40,200), rgb(0,34,150));
+            height: 75px;
+            border-radius: 15px;
+            width: 40%;
+            position: relative;
+            
+        }
+
+        .PS2-3 {
+            background-image: linear-gradient(to right, rgb(0,40,200), rgb(0,34,150));
+            height: 100px;
+            border-radius: 15px;
+            width: 40%;
+            position: relative;
+            left: 60%;
+        }
+
+        html, body {
+    overflow-x: hidden;
+}
+
+a, a:link, a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+a.PS2:hover {
+  background: linear-gradient(90deg, #8A2BE2 0%, #007BFF 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  transition: all 0.3s ease;
+}
+
+
+
+a.Xbox:hover, a:active {
+  background: linear-gradient(90deg, #00f915 0%, #006a23 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  transition: all 0.3s ease;
+}
+
+a.contact:hover, a:active {
+  background: linear-gradient(90deg, #7e7e7e 0%, #ffffff 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  transition: all 0.3s ease;
+}
+
+a.PS1:hover, a:active {
+  background: linear-gradient(90deg, #f90000 0%, #f2ff00 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  transition: all 0.3s ease;
+}
+
+a.PS3:hover, a:active {
+  background: linear-gradient(90deg, #ffffff 0%, #6d6d6d 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  transition: all 0.3s ease;
+}
+
+a.home:hover, a:active {
+  background: linear-gradient(90deg, #00c7f9 0%, #001c6a 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  transition: all 0.3s ease;
+}
+
+ a:hover {color: rgb(113, 113, 255);}
+
+ .XBOX-1 {
+            background-image: linear-gradient(to right, rgb(7, 213, 0), rgb(6, 99, 3));
+            height: 80px;
+            border-radius: 15px;
+            width: 40%;
+            position: relative;
+            left: 60%;
+           
+        }
+
+        .XBOX-2 {
+           background-image: linear-gradient(to right, rgb(7, 213, 0), rgb(6, 99, 3));
+            height: 75px;
+            border-radius: 15px;
+            width: 40%;
+            position: relative;
+            
+        }
+
+        .XBOX-3 {
+            background-image: linear-gradient(to right, rgb(7, 213, 0), rgb(6, 99, 3));
+            height: 100px;
+            border-radius: 15px;
+            width: 40%;
+            position: relative;
+            left: 60%;
+        }
